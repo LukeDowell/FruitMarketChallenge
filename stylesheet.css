@@ -1,0 +1,9 @@
+.jumbotron {
+	background-image: url(fruitstand.jpg);
+	background-size: cover;
+	color: #FFFFFF;
+}
+
+img {
+	float:left;
+}
